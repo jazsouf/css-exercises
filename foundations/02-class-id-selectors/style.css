@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd {
+    background-color: rgb(231, 128, 140);
+    font-size: 25px;
+}
+
+#num-2 {
+    font-size: 36px;
+    color: blue;
+}
+
+#num-4 {
+    background-color: rgb(126, 196, 22);
+    font-size: 24px;
+    font-weight: bold;
+}
